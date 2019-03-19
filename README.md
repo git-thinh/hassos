@@ -11,3 +11,6 @@ Hass.io OS based on [buildroot](https://buildroot.org/). It's a hypervisor for D
 - AppArmor protected
 - ZRAM LZ4 for /tmp, /var, swap
 - Run every supervisor
+
+
+https://tinhte.vn/threads/hass-huong-dan-cai-home-assistant-len-virtualbox-tan-dung-may-tinh-san-co-lam-nha-thong-minh.2926013/
